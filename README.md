@@ -23,7 +23,7 @@ The project is also inspired by [arduiblock](https://github.com/taweili/ardubloc
 
 ### License
 
-Copyright (C) 2012~2015 Fred Lin gasolin+blockly@gmail.com
+Copyright (C) 2018~2022 sean sean@seanlabcoding.com
 
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
